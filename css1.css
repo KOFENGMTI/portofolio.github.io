@@ -1047,6 +1047,11 @@
  }
 
  @media screen and (max-width: 600px) {
+  
+  nav {
+    position: fixed;
+  }
+  
    .gradient-border-box {
      width: 100px;
      height: 100px;
